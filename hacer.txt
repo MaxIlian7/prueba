@@ -1,0 +1,11 @@
+_ajustar el nav estatico
+_ajuste de las card
+_mejorar diseño
+    _intentar usar img de fondo
+    _usar iconos
+    _ajustar a quienes somos, el banner para responsive
+
+_plugins
+    capcha: https://www.jqueryscript.net/other/alphanumeric-captcha.html#google_vignette
+    validation: https://jqueryvalidation.org/valid/
+    

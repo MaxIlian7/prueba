@@ -1,0 +1,37 @@
+[
+    {
+        "dir_i": "img/banner.jpg",
+        "nomb": "MercadoGratis.com",
+        "info": "La pagina web mas facil para comprar productos 100% seguros"
+    },
+    {
+        "dir_i": "img/maria.jpg",
+        "nomb": "Maria Lopez",
+        "info": "Puesto: Gestora de recursos<br> Edad: 34 Años<br> Me gusta desempeñarme correctamente en mi trabajo y dejar a gusto a mis clientes"
+    },
+    {
+        "dir_i": "img/roxana.jpg",
+        "nomb": "Roxana J.Perez",
+        "info": "Puesto: Licienciada en Marketing Digital<br>Edad: 23 Años<br> Me gradue muy joven y soy la hostia"
+    },
+    {
+        "dir_i": "img/marcos.jpg",
+        "nomb": "Marcos D.Palma",
+        "info": "Puesto: Desarrollador Web<br> Edad: 30 Años <br>Me especializo en paginas avanzadas de alta calidad"
+    },
+    {
+        "dir_i": "img/entrega.jpg",
+        "nomb": "Entrega a Domicilio en mas de 1000 localidades",
+        "info": "Trabajamos con distintas sedes en todo el pais, con envios 100% gratuitos"
+    },
+    {
+        "dir_i": "img/paqu.jpg",
+        "nomb": "Paquetes 100% seguros",
+        "info": "Si te lo rompemos, te lo devolvemos y lo cubrimos al 100%."
+    },
+    {
+        "dir_i": "",
+        "nomb": "Avenida Lastra 440, Chascomus",
+        "info": "Tel: 02241-123456<br>Abrimos de 9:00 a 17:00"
+    }
+]

@@ -1,0 +1,165 @@
+[
+    {
+        "nom": "Hamburguesa",
+        "precio": "100",
+        "cat": "Comida",
+        "desc": "Hambueguesa completa... con todo",
+        "dir": [
+            "prod/comi0.jpg",
+            "prod/hamb1.jpg",
+            "prod/hamb2.jpg",
+            "prod/hamb3.jpg",
+            "prod/hamb4.jpg"
+        ],
+        "id": "0"
+    },
+    {
+        "nom": "Pechuga con verduras",
+        "precio": "150",
+        "cat": "Comida",
+        "desc": "Pechuga de pollo a la plancha con verduras",
+        "dir": [
+            "prod/comi1.jpg",
+            "prod/pech1.jpg",
+            "prod/pech2.jpg",
+            "prod/pech3.jpg"
+        ],
+        "id": "1"
+    },
+    {
+        "nom": "Pizza con verduras",
+        "precio": "300",
+        "cat": "Comida",
+        "desc": "Pizza completa con verduras",
+        "dir": ["prod/comi2.jpg"],
+        "id": "2"
+    },
+    {
+        "nom": "Alfajores",
+        "precio": "50",
+        "cat": "Comida",
+        "desc": "Alfajores de frutilla",
+        "dir": ["prod/comi3.jpg"],
+        "id": "3"
+    },
+    {
+        "nom": "Joystick ps4",
+        "precio": "5000",
+        "cat": "Ocio",
+        "desc": "Combo de joystick ps4",
+        "dir": ["prod/oscio0.jpg"],
+        "id": "4"
+    },
+    {
+        "nom": "Combo tecnologico",
+        "precio": "30000",
+        "cat": "Ocio",
+        "desc": "Celular, Tablet, Monitor y Laptop",
+        "dir": ["prod/oscio1.jpg"],
+        "id": "5"
+    },
+    {
+        "nom": "Teclado",
+        "precio": "20000",
+        "cat": "Ocio",
+        "desc": "Teclado musical 24 teclas",
+        "dir": ["prod/oscio2.jpg"],
+        "id": "6"
+    },
+    {
+        "nom": "Telescopio",
+        "precio": "50000",
+        "cat": "Ocio",
+        "desc": "Telescopio blanco y dorado x5",
+        "dir": ["prod/oscio3.jpg"],
+        "id": "7"
+    },
+    {
+        "nom": "Pantalon de vestir M",
+        "precio": "45",
+        "cat": "Pantalones",
+        "desc": "Pantalon de vestir para hombres",
+        "dir": ["prod/pan0.jpg"],
+        "id": "8"
+    },
+    {
+        "nom": "Pantalon deportivo M",
+        "precio": "50",
+        "cat": "Pantalones",
+        "desc": "Pantalon deportivo para hombre",
+        "dir": ["prod/pan1.jpg"],
+        "id": "9"
+    },
+    {
+        "nom": "Pantalon de vestir F",
+        "precio": "45",
+        "cat": "Pantalones",
+        "desc": "Pantalon de verstir para mujeres",
+        "dir": ["prod/pan2.jpg"],
+        "id": "10"
+    },
+    {
+        "nom": "Pantalon deportivo F",
+        "precio": "50",
+        "cat": "Pantalones",
+        "desc": "Pantalon deportivo femenino",
+        "dir": ["prod/pan3.jpg"],
+        "id": "11"
+    },
+    {
+        "nom": "Remera de vestir M",
+        "precio": "30",
+        "cat": "Remeras",
+        "desc": "Remeras de vestir masculino de varios colores",
+        "dir": ["prod/reme1.jpg"],
+        "id": "12"
+    },
+    {
+        "nom": "Remera de vestir F",
+        "precio": "30",
+        "cat": "Remeras",
+        "desc": "Remera de vestir rosa para mujeres",
+        "dir": ["prod/reme2.jpg"],
+        "id": "13"
+    },
+    {
+        "nom": "Remera pillama",
+        "precio": "50",
+        "cat": "Remeras",
+        "desc": "Remera pillama negra MickeyMouse",
+        "dir": ["prod/reme3.jpg"],
+        "id": "14"
+    },
+    {
+        "nom": "Zapatilla estrella",
+        "precio": "150",
+        "cat": "Calzado",
+        "desc": "Zapatilla de vestir color verdes",
+        "dir": ["prod/zap0.jpg"],
+        "id": "15"
+    },
+    {
+        "nom": "Zapatilla deportivas",
+        "precio": "500",
+        "cat": "Calzado",
+        "desc": "Zapatilla deportivas blancas nike",
+        "dir": ["prod/zap1.jpg"],
+        "id": "16"
+    },
+    {
+        "nom": "Zapatilla de vestir",
+        "precio": "300",
+        "cat": "Calzado",
+        "desc": "Zapatilla multicolor",
+        "dir": ["prod/zap2.jpg"],
+        "id": "17"
+    },
+    {
+        "nom": "Zapatilla de montañas",
+        "precio": "600",
+        "cat": "Calzado",
+        "desc": "Zapatilla de montañas gris",
+        "dir": ["prod/zap3.jpg"],
+        "id": "18"
+    }
+]
